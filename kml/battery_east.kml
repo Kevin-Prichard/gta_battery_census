@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="3">
+            <LineStyle id="4">
+                <color>2514F0F0</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+            <PolyStyle id="5">
+                <color>2514F0F0</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="6">
+            <LineStyle id="7">
+                <color>2514F0F0</color>
+                <colorMode>normal</colorMode>
+                <width>16</width>
+            </LineStyle>
+            <PolyStyle id="8">
+                <color>2514F0F0</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <StyleMap id="2">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#3</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#6</styleUrl>
+            </Pair>
+        </StyleMap>
+        <name>District 3</name>
+        <Placemark id="10">
+            <name>Census Block: 060750105001017, Pop: 145, Housing Units: 114</name>
+            <description>Census Block: 060750105001017, Pop: 145, Housing Units: 114</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="9">
+                <outerBoundaryIs>
+                    <LinearRing id="13">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.401051,37.79858,0.0 -122.399873,37.798729,0.0 -122.399686,37.797807,0.0 -122.400863,37.797654,0.0 -122.401013,37.798390999999995,0.0 -122.401051,37.79858,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="16">
+            <name>Census Block: 060750117002014, Pop: 1, Housing Units: 0</name>
+            <description>Census Block: 060750117002014, Pop: 1, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="15">
+                <outerBoundaryIs>
+                    <LinearRing id="19">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.399959,37.793209,0.0 -122.398782,37.793358999999995,0.0 -122.398588,37.792408,0.0 -122.39976300000001,37.792258,0.0 -122.399959,37.793209,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="22">
+            <name>Census Block: 060750105002011, Pop: 15, Housing Units: 0</name>
+            <description>Census Block: 060750105002011, Pop: 15, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="21">
+                <outerBoundaryIs>
+                    <LinearRing id="25">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.396586,37.794588,0.0 -122.394324,37.794996,0.0 -122.394205,37.794866999999996,0.0 -122.39386999999999,37.794615,0.0 -122.393548,37.794415,0.0 -122.393468,37.794363,0.0 -122.39381900000001,37.793738,0.0 -122.39474799999999,37.79448,0.0 -122.39486,37.794458999999996,0.0 -122.395655,37.793831,0.0 -122.39570499999999,37.793793,0.0 -122.396315,37.793337,0.0 -122.39639,37.793664,0.0 -122.396586,37.794588,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="28">
+            <name>Census Block: 060750117002013, Pop: 21, Housing Units: 1</name>
+            <description>Census Block: 060750117002013, Pop: 21, Housing Units: 1</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="27">
+                <outerBoundaryIs>
+                    <LinearRing id="31">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.400058,37.793693999999995,0.0 -122.39887999999999,37.793844,0.0 -122.398782,37.793358999999995,0.0 -122.399959,37.793209,0.0 -122.400058,37.793693999999995,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="34">
+            <name>Census Block: 060750117002016, Pop: 7, Housing Units: 0</name>
+            <description>Census Block: 060750117002016, Pop: 7, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="33">
+                <outerBoundaryIs>
+                    <LinearRing id="37">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.39760799999999,37.793509,0.0 -122.39639,37.793664,0.0 -122.396315,37.793337,0.0 -122.396546,37.793127,0.0 -122.396612,37.793079,0.0 -122.397359,37.79249,0.0 -122.39742799999999,37.792442,0.0 -122.39760799999999,37.793509,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="40">
+            <name>Census Block: 060750105002005, Pop: 0, Housing Units: 0</name>
+            <description>Census Block: 060750105002005, Pop: 0, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="39">
+                <outerBoundaryIs>
+                    <LinearRing id="43">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.399686,37.797807,0.0 -122.398522,37.798023,0.0 -122.398333,37.797092,0.0 -122.398983,37.797000000000004,0.0 -122.399507,37.796926,0.0 -122.399686,37.797807,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="46">
+            <name>Census Block: 060750105002012, Pop: 9, Housing Units: 0</name>
+            <description>Census Block: 060750105002012, Pop: 9, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="45">
+                <outerBoundaryIs>
+                    <LinearRing id="49">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.400329,37.795013,0.0 -122.399149,37.795162999999995,0.0 -122.399058,37.794717999999996,0.0 -122.39896999999999,37.794284,0.0 -122.400149,37.794134,0.0 -122.400239,37.794575,0.0 -122.400329,37.795013,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="52">
+            <name>Census Block: 060750117002001, Pop: 0, Housing Units: 0</name>
+            <description>Census Block: 060750117002001, Pop: 0, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="51">
+                <outerBoundaryIs>
+                    <LinearRing id="55">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.39896999999999,37.794284,0.0 -122.397796,37.794433999999995,0.0 -122.39760799999999,37.793509,0.0 -122.398782,37.793358999999995,0.0 -122.39887999999999,37.793844,0.0 -122.39896999999999,37.794284,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="58">
+            <name>Census Block: 060750105003000, Pop: 1104, Housing Units: 789</name>
+            <description>Census Block: 060750105003000, Pop: 1104, Housing Units: 789</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="57">
+                <outerBoundaryIs>
+                    <LinearRing id="61">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.40068099999999,37.796777,0.0 -122.399507,37.796926,0.0 -122.398983,37.797000000000004,0.0 -122.398333,37.797092,0.0 -122.398298,37.7969,0.0 -122.398262,37.796718999999996,0.0 -122.398221,37.796529,0.0 -122.398167,37.796254999999995,0.0 -122.398152,37.796186,0.0 -122.398641,37.796119999999995,0.0 -122.400486,37.795874999999995,0.0 -122.40068099999999,37.796777,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="64">
+            <name>Census Block: 060750105001012, Pop: 242, Housing Units: 94</name>
+            <description>Census Block: 060750105001012, Pop: 242, Housing Units: 94</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="63">
+                <outerBoundaryIs>
+                    <LinearRing id="67">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.40124,37.799531,0.0 -122.400066,37.799681,0.0 -122.399873,37.798729,0.0 -122.401051,37.79858,0.0 -122.40124,37.799531,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="70">
+            <name>Census Block: 060750117002002, Pop: 0, Housing Units: 0</name>
+            <description>Census Block: 060750117002002, Pop: 0, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="69">
+                <outerBoundaryIs>
+                    <LinearRing id="73">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.400149,37.794134,0.0 -122.39896999999999,37.794284,0.0 -122.39887999999999,37.793844,0.0 -122.400058,37.793693999999995,0.0 -122.400149,37.794134,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="76">
+            <name>Census Block: 060750105001008, Pop: 0, Housing Units: 0</name>
+            <description>Census Block: 060750105001008, Pop: 0, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="75">
+                <outerBoundaryIs>
+                    <LinearRing id="79">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.40161499999999,37.801381,0.0 -122.400436,37.801525,0.0 -122.40034299999999,37.801068,0.0 -122.401521,37.800919,0.0 -122.40161499999999,37.801381,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="82">
+            <name>Census Block: 060750105001019, Pop: 21, Housing Units: 2</name>
+            <description>Census Block: 060750105001019, Pop: 21, Housing Units: 2</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="81">
+                <outerBoundaryIs>
+                    <LinearRing id="85">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.400863,37.797654,0.0 -122.399686,37.797807,0.0 -122.399507,37.796926,0.0 -122.40068099999999,37.796777,0.0 -122.400863,37.797654,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="88">
+            <name>Census Block: 060750105001007, Pop: 7, Housing Units: 1</name>
+            <description>Census Block: 060750105001007, Pop: 7, Housing Units: 1</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="87">
+                <outerBoundaryIs>
+                    <LinearRing id="91">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.401521,37.800919,0.0 -122.40034299999999,37.801068,0.0 -122.40025,37.800607,0.0 -122.401428,37.800459,0.0 -122.401521,37.800919,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="94">
+            <name>Census Block: 060750105002008, Pop: 7, Housing Units: 0</name>
+            <description>Census Block: 060750105002008, Pop: 7, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="93">
+                <outerBoundaryIs>
+                    <LinearRing id="97">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.398152,37.796186,0.0 -122.397922,37.796216,0.0 -122.396958,37.796347,0.0 -122.396867,37.795916999999996,0.0 -122.396772,37.795466,0.0 -122.397975,37.795313,0.0 -122.398152,37.796186,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="100">
+            <name>Census Block: 060750105001006, Pop: 0, Housing Units: 0</name>
+            <description>Census Block: 060750105001006, Pop: 0, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="99">
+                <outerBoundaryIs>
+                    <LinearRing id="103">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.401428,37.800459,0.0 -122.40025,37.800607,0.0 -122.400066,37.799681,0.0 -122.40124,37.799531,0.0 -122.401428,37.800459,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="106">
+            <name>Census Block: 060750117002022, Pop: 69, Housing Units: 63</name>
+            <description>Census Block: 060750117002022, Pop: 69, Housing Units: 63</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="105">
+                <outerBoundaryIs>
+                    <LinearRing id="109">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.398588,37.792408,0.0 -122.39755199999999,37.792541,0.0 -122.39742799999999,37.792442,0.0 -122.39749,37.792387,0.0 -122.398235,37.7918,0.0 -122.398302,37.791745999999996,0.0 -122.398482,37.791889999999995,0.0 -122.398588,37.792408,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="112">
+            <name>Census Block: 060750105001005, Pop: 5, Housing Units: 0</name>
+            <description>Census Block: 060750105001005, Pop: 5, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="111">
+                <outerBoundaryIs>
+                    <LinearRing id="115">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.40025,37.800607,0.0 -122.399483,37.800703999999996,0.0 -122.399271,37.80082,0.0 -122.398436,37.799913,0.0 -122.397766,37.799183,0.0 -122.398044,37.799026,0.0 -122.398117,37.798989999999996,0.0 -122.39821599999999,37.798956,0.0 -122.398297,37.798938,0.0 -122.398696,37.798881,0.0 -122.398883,37.799828999999995,0.0 -122.400066,37.799681,0.0 -122.40025,37.800607,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="118">
+            <name>Census Block: 060750105002003, Pop: 112, Housing Units: 77</name>
+            <description>Census Block: 060750105002003, Pop: 112, Housing Units: 77</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="117">
+                <outerBoundaryIs>
+                    <LinearRing id="121">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.398696,37.798881,0.0 -122.398297,37.798938,0.0 -122.39821599999999,37.798956,0.0 -122.398117,37.798989999999996,0.0 -122.398044,37.799026,0.0 -122.397766,37.799183,0.0 -122.396942,37.798227,0.0 -122.397311,37.798165999999995,0.0 -122.398522,37.798023,0.0 -122.398696,37.798881,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="124">
+            <name>Census Block: 060750105002009, Pop: 7, Housing Units: 0</name>
+            <description>Census Block: 060750105002009, Pop: 7, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="123">
+                <outerBoundaryIs>
+                    <LinearRing id="127">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.400486,37.795874999999995,0.0 -122.398641,37.796119999999995,0.0 -122.398152,37.796186,0.0 -122.397975,37.795313,0.0 -122.399149,37.795162999999995,0.0 -122.400329,37.795013,0.0 -122.400413,37.795448,0.0 -122.400486,37.795874999999995,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="130">
+            <name>Census Block: 060750105002013, Pop: 0, Housing Units: 0</name>
+            <description>Census Block: 060750105002013, Pop: 0, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="129">
+                <outerBoundaryIs>
+                    <LinearRing id="133">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.399149,37.795162999999995,0.0 -122.397975,37.795313,0.0 -122.397893,37.79491,0.0 -122.397796,37.794433999999995,0.0 -122.39896999999999,37.794284,0.0 -122.399058,37.794717999999996,0.0 -122.399149,37.795162999999995,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="136">
+            <name>Census Block: 060750117002015, Pop: 6, Housing Units: 0</name>
+            <description>Census Block: 060750117002015, Pop: 6, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="135">
+                <outerBoundaryIs>
+                    <LinearRing id="139">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.398782,37.793358999999995,0.0 -122.39760799999999,37.793509,0.0 -122.39742799999999,37.792442,0.0 -122.39755199999999,37.792541,0.0 -122.398588,37.792408,0.0 -122.398782,37.793358999999995,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="142">
+            <name>Census Block: 060750105002002, Pop: 2, Housing Units: 0</name>
+            <description>Census Block: 060750105002002, Pop: 2, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="141">
+                <outerBoundaryIs>
+                    <LinearRing id="145">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.396958,37.796347,0.0 -122.396491,37.796459999999996,0.0 -122.395842,37.796552,0.0 -122.39556400000001,37.796634999999995,0.0 -122.395146,37.796141,0.0 -122.395126,37.796116,0.0 -122.394897,37.795835,0.0 -122.394781,37.795642,0.0 -122.394615,37.795365,0.0 -122.394407,37.795086999999995,0.0 -122.394324,37.794996,0.0 -122.396586,37.794588,0.0 -122.3966,37.794653,0.0 -122.396772,37.795466,0.0 -122.396867,37.795916999999996,0.0 -122.396958,37.796347,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="148">
+            <name>Census Block: 060750105002007, Pop: 541, Housing Units: 452</name>
+            <description>Census Block: 060750105002007, Pop: 541, Housing Units: 452</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="147">
+                <outerBoundaryIs>
+                    <LinearRing id="151">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.398333,37.797092,0.0 -122.397137,37.797244,0.0 -122.397109,37.797103,0.0 -122.397026,37.796687,0.0 -122.396958,37.796347,0.0 -122.397922,37.796216,0.0 -122.398152,37.796186,0.0 -122.398167,37.796254999999995,0.0 -122.398221,37.796529,0.0 -122.398262,37.796718999999996,0.0 -122.398298,37.7969,0.0 -122.398333,37.797092,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="154">
+            <name>Census Block: 060750105002004, Pop: 74, Housing Units: 52</name>
+            <description>Census Block: 060750105002004, Pop: 74, Housing Units: 52</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="153">
+                <outerBoundaryIs>
+                    <LinearRing id="157">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.399873,37.798729,0.0 -122.398696,37.798881,0.0 -122.398522,37.798023,0.0 -122.399686,37.797807,0.0 -122.399873,37.798729,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="160">
+            <name>Census Block: 060750105001004, Pop: 3, Housing Units: 0</name>
+            <description>Census Block: 060750105001004, Pop: 3, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="159">
+                <outerBoundaryIs>
+                    <LinearRing id="163">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.402059,37.803954999999995,0.0 -122.401943,37.80384,0.0 -122.401563,37.803472,0.0 -122.400698,37.802465,0.0 -122.400393,37.802119999999995,0.0 -122.400023,37.801702,0.0 -122.39939,37.800978,0.0 -122.399271,37.80082,0.0 -122.399483,37.800703999999996,0.0 -122.40025,37.800607,0.0 -122.40034299999999,37.801068,0.0 -122.400436,37.801525,0.0 -122.40161499999999,37.801381,0.0 -122.401794,37.802310999999996,0.0 -122.401981,37.803239999999995,0.0 -122.402116,37.803878999999995,0.0 -122.402059,37.803954999999995,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="166">
+            <name>Census Block: 060750105002014, Pop: 17, Housing Units: 1</name>
+            <description>Census Block: 060750105002014, Pop: 17, Housing Units: 1</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="165">
+                <outerBoundaryIs>
+                    <LinearRing id="169">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.397975,37.795313,0.0 -122.396772,37.795466,0.0 -122.3966,37.794653,0.0 -122.396586,37.794588,0.0 -122.397796,37.794433999999995,0.0 -122.397893,37.79491,0.0 -122.397975,37.795313,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="172">
+            <name>Census Block: 060750105002006, Pop: 44, Housing Units: 24</name>
+            <description>Census Block: 060750105002006, Pop: 44, Housing Units: 24</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="171">
+                <outerBoundaryIs>
+                    <LinearRing id="175">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.398522,37.798023,0.0 -122.397311,37.798165999999995,0.0 -122.396942,37.798227,0.0 -122.39556400000001,37.796634999999995,0.0 -122.395842,37.796552,0.0 -122.396491,37.796459999999996,0.0 -122.396958,37.796347,0.0 -122.397026,37.796687,0.0 -122.397109,37.797103,0.0 -122.397137,37.797244,0.0 -122.398333,37.797092,0.0 -122.398522,37.798023,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="178">
+            <name>Census Block: 060750117002023, Pop: 3, Housing Units: 0</name>
+            <description>Census Block: 060750117002023, Pop: 3, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="177">
+                <outerBoundaryIs>
+                    <LinearRing id="181">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.39976300000001,37.792258,0.0 -122.398588,37.792408,0.0 -122.398482,37.791889999999995,0.0 -122.398302,37.791745999999996,0.0 -122.398369,37.791695,0.0 -122.399123,37.791101,0.0 -122.39919499999999,37.791058,0.0 -122.399494,37.791325,0.0 -122.399572,37.791326999999995,0.0 -122.39976300000001,37.792258,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="184">
+            <name>Census Block: 060750117002000, Pop: 0, Housing Units: 0</name>
+            <description>Census Block: 060750117002000, Pop: 0, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="183">
+                <outerBoundaryIs>
+                    <LinearRing id="187">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.397796,37.794433999999995,0.0 -122.396586,37.794588,0.0 -122.39639,37.793664,0.0 -122.39760799999999,37.793509,0.0 -122.397796,37.794433999999995,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="190">
+            <name>Census Block: 060750105001011, Pop: 0, Housing Units: 0</name>
+            <description>Census Block: 060750105001011, Pop: 0, Housing Units: 0</description>
+            <styleUrl>#2</styleUrl>
+            <Polygon id="189">
+                <outerBoundaryIs>
+                    <LinearRing id="193">
+                        <gx:altitudeOffset>0</gx:altitudeOffset>
+                        <coordinates>-122.400066,37.799681,0.0 -122.398883,37.799828999999995,0.0 -122.398696,37.798881,0.0 -122.399873,37.798729,0.0 -122.400066,37.799681,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <name>test_3d</name>
+        <Folder id="9">
+            <Style id="3">
+                <LineStyle id="4">
+                    <color>503D8764</color>
+                    <colorMode>normal</colorMode>
+                    <width>4</width>
+                </LineStyle>
+                <PolyStyle id="5">
+                    <color>503D8764</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="6">
+                <LineStyle id="7">
+                    <color>503D8764</color>
+                    <colorMode>normal</colorMode>
+                    <width>16</width>
+                </LineStyle>
+                <PolyStyle id="8">
+                    <color>503D8764</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <StyleMap id="2">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#3</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#6</styleUrl>
+                </Pair>
+            </StyleMap>
+            <name>Folder test_3ddd</name>
+            <Placemark id="11">
+                <name>Lower layer label test_3ddd</name>
+                <description>Lower layer desc test_3ddd</description>
+                <styleUrl>#2</styleUrl>
+                <Polygon id="10">
+                    <altitudeMode>relativeToGround</altitudeMode>
+                    <outerBoundaryIs>
+                        <LinearRing id="14">
+                            <coordinates>-122.3901093,37.7907861,200 -122.4094105,37.7820018,200 -122.3976088,37.7832653,200 -122.3901093,37.7907861,200</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="17">
+                <name>Upper layer label test_3ddd</name>
+                <description>Upper layer desc test_3ddd</description>
+                <styleUrl>#2</styleUrl>
+                <Polygon id="16">
+                    <altitudeMode>relativeToGround</altitudeMode>
+                    <outerBoundaryIs>
+                        <LinearRing id="20">
+                            <coordinates>-122.3901093,37.7907861,250.0 -122.4094105,37.7820018,250.0 -122.3976088,37.7832653,250.0 -122.3901093,37.7907861,250.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="23">
+                <name>Side#0 label test_3ddd</name>
+                <description>Side#0 desc test_3ddd</description>
+                <styleUrl>#2</styleUrl>
+                <Polygon id="22">
+                    <altitudeMode>relativeToGround</altitudeMode>
+                    <outerBoundaryIs>
+                        <LinearRing id="26">
+                            <coordinates>-122.3901093,37.7907861,250.0 -122.4094105,37.7820018,250.0 -122.4094105,37.7820018,200 -122.3901093,37.7907861,200</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="29">
+                <name>Side#1 label test_3ddd</name>
+                <description>Side#1 desc test_3ddd</description>
+                <styleUrl>#2</styleUrl>
+                <Polygon id="28">
+                    <altitudeMode>relativeToGround</altitudeMode>
+                    <outerBoundaryIs>
+                        <LinearRing id="32">
+                            <coordinates>-122.4094105,37.7820018,250.0 -122.3976088,37.7832653,250.0 -122.3976088,37.7832653,200 -122.4094105,37.7820018,200</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="35">
+                <name>Side#2 label test_3ddd</name>
+                <description>Side#2 desc test_3ddd</description>
+                <styleUrl>#2</styleUrl>
+                <Polygon id="34">
+                    <altitudeMode>relativeToGround</altitudeMode>
+                    <outerBoundaryIs>
+                        <LinearRing id="38">
+                            <coordinates>-122.3976088,37.7832653,250.0 -122.3901093,37.7907861,250.0 -122.3901093,37.7907861,200 -122.3976088,37.7832653,200</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="41">
+                <name>Side#3 label test_3ddd</name>
+                <description>Side#3 desc test_3ddd</description>
+                <styleUrl>#2</styleUrl>
+                <Polygon id="40">
+                    <altitudeMode>relativeToGround</altitudeMode>
+                    <outerBoundaryIs>
+                        <LinearRing id="44">
+                            <coordinates>-122.3901093,37.7907861,250.0 -122.3901093,37.7907861,250.0 -122.3901093,37.7907861,200 -122.3901093,37.7907861,200</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

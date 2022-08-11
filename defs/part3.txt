@@ -1,0 +1,15 @@
+    "FILEID": 0,        # File Identification
+    "STUSAB": 1,        # State/US-Abbreviation (USPS)
+    "CHARITER": 2,      # Characteristic Iteration
+    "CIFSN": 3,         # Characteristic Iteration File Sequence Number
+    "LOGRECNO": 4,      # Logical Record Number
+    "P0050001": 5,      # Total:
+    "P0050002": 6,      # Institutionalized population:
+    "P0050003": 7,      # Correctional facilities for adults
+    "P0050004": 8,      # Juvenile facilities
+    "P0050005": 9,      # Nursing facilities/Skilled-nursing facilities
+    "P0050006": 10,     # Other institutional facilities
+    "P0050007": 11,     # Noninstitutionalized population:
+    "P0050008": 12,     # College/University student housing
+    "P0050009": 13,     # Military quarters
+    "P0050010": 14,     # Other noninstitutional facilities

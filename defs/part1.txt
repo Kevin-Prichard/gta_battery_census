@@ -1,0 +1,149 @@
+    "FILEID": 0,        # File Identification
+    "STUSAB": 1,        # State/US-Abbreviation (USPS)
+    "CHARITER": 2,      # Characteristic Iteration
+    "CIFSN": 3,         # Characteristic Iteration File Sequence Number
+    "LOGRECNO": 4,      # Logical Record Number
+    "P0010001": 5,      # Total:
+    "P0010002": 6,      # Population of one race:
+    "P0010003": 7,      # White alone
+    "P0010004": 8,      # Black or African American alone
+    "P0010005": 9,      # American Indian and Alaska Native alone
+    "P0010006": 10,     # Asian alone
+    "P0010007": 11,     # Native Hawaiian and Other Pacific Islander alone
+    "P0010008": 12,     # Some Other Race alone
+    "P0010009": 13,     # Population of two or more races:
+    "P0010010": 14,     # Population of two races:
+    "P0010011": 15,     # White; Black or African American
+    "P0010012": 16,     # White; American Indian and Alaska Native
+    "P0010013": 17,     # White; Asian
+    "P0010014": 18,     # White; Native Hawaiian and Other Pacific Islander
+    "P0010015": 19,     # White; Some Other Race
+    "P0010016": 20,     # Black or African American; American Indian and Alaska Native
+    "P0010017": 21,     # Black or African American; Asian
+    "P0010018": 22,     # Black or African American; Native Hawaiian and Other Pacific Islander
+    "P0010019": 23,     # Black or African American; Some Other Race
+    "P0010020": 24,     # American Indian and Alaska Native; Asian
+    "P0010021": 25,     # American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+    "P0010022": 26,     # American Indian and Alaska Native; Some Other Race
+    "P0010023": 27,     # Asian; Native Hawaiian and Other Pacific Islander
+    "P0010024": 28,     # Asian; Some Other Race
+    "P0010025": 29,     # Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0010026": 30,     # Population of three races:
+    "P0010027": 31,     # White; Black or African American; American Indian and Alaska Native
+    "P0010028": 32,     # White; Black or African American; Asian
+    "P0010029": 33,     # White; Black or African American; Native Hawaiian and Other Pacific Islander
+    "P0010030": 34,     # White; Black or African American; Some Other Race
+    "P0010031": 35,     # White; American Indian and Alaska Native; Asian
+    "P0010032": 36,     # White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+    "P0010033": 37,     # White; American Indian and Alaska Native; Some Other Race
+    "P0010034": 38,     # White; Asian; Native Hawaiian and Other Pacific Islander
+    "P0010035": 39,     # White; Asian; Some Other Race
+    "P0010036": 40,     # White; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0010037": 41,     # Black or African American; American Indian and Alaska Native; Asian
+    "P0010038": 42,     # Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+    "P0010039": 43,     # Black or African American; American Indian and Alaska Native; Some Other Race
+    "P0010040": 44,     # Black or African American; Asian; Native Hawaiian and Other Pacific Islander
+    "P0010041": 45,     # Black or African American; Asian; Some Other Race
+    "P0010042": 46,     # Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0010043": 47,     # American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+    "P0010044": 48,     # American Indian and Alaska Native; Asian; Some Other Race
+    "P0010045": 49,     # American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0010046": 50,     # Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0010047": 51,     # Population of four races:
+    "P0010048": 52,     # White; Black or African American; American Indian and Alaska Native; Asian
+    "P0010049": 53,     # White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+    "P0010050": 54,     # White; Black or African American; American Indian and Alaska Native; Some Other Race
+    "P0010051": 55,     # White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander
+    "P0010052": 56,     # White; Black or African American; Asian; Some Other Race
+    "P0010053": 57,     # White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0010054": 58,     # White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+    "P0010055": 59,     # White; American Indian and Alaska Native; Asian; Some Other Race
+    "P0010056": 60,     # White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0010057": 61,     # White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0010058": 62,     # Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+    "P0010059": 63,     # Black or African American; American Indian and Alaska Native; Asian; Some Other Race
+    "P0010060": 64,     # Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0010061": 65,     # Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0010062": 66,     # American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0010063": 67,     # Population of five races:
+    "P0010064": 68,     # White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+    "P0010065": 69,     # White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race
+    "P0010066": 70,     # White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0010067": 71,     # White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0010068": 72,     # White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0010069": 73,     # Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0010070": 74,     # Population of six races:
+    "P0010071": 75,     # White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0020001": 76,     # Total:
+    "P0020002": 77,     # Hispanic or Latino
+    "P0020003": 78,     # Not Hispanic or Latino:
+    "P0020004": 79,     # Population of one race:
+    "P0020005": 80,     # White alone
+    "P0020006": 81,     # Black or African American alone
+    "P0020007": 82,     # American Indian and Alaska Native alone
+    "P0020008": 83,     # Asian alone
+    "P0020009": 84,     # Native Hawaiian and Other Pacific Islander alone
+    "P0020010": 85,     # Some Other Race alone
+    "P0020011": 86,     # Population of two or more races:
+    "P0020012": 87,     # Population of two races:
+    "P0020013": 88,     # White; Black or African American
+    "P0020014": 89,     # White; American Indian and Alaska Native
+    "P0020015": 90,     # White; Asian
+    "P0020016": 91,     # White; Native Hawaiian and Other Pacific Islander
+    "P0020017": 92,     # White; Some Other Race
+    "P0020018": 93,     # Black or African American; American Indian and Alaska Native
+    "P0020019": 94,     # Black or African American; Asian
+    "P0020020": 95,     # Black or African American; Native Hawaiian and Other Pacific Islander
+    "P0020021": 96,     # Black or African American; Some Other Race
+    "P0020022": 97,     # American Indian and Alaska Native; Asian
+    "P0020023": 98,     # American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+    "P0020024": 99,     # American Indian and Alaska Native; Some Other Race
+    "P0020025": 100,    # Asian; Native Hawaiian and Other Pacific Islander
+    "P0020026": 101,    # Asian; Some Other Race
+    "P0020027": 102,    # Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0020028": 103,    # Population of three races:
+    "P0020029": 104,    # White; Black or African American; American Indian and Alaska Native
+    "P0020030": 105,    # White; Black or African American; Asian
+    "P0020031": 106,    # White; Black or African American; Native Hawaiian and Other Pacific Islander
+    "P0020032": 107,    # White; Black or African American; Some Other Race
+    "P0020033": 108,    # White; American Indian and Alaska Native; Asian
+    "P0020034": 109,    # White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+    "P0020035": 110,    # White; American Indian and Alaska Native; Some Other Race
+    "P0020036": 111,    # White; Asian; Native Hawaiian and Other Pacific Islander
+    "P0020037": 112,    # White; Asian; Some Other Race
+    "P0020038": 113,    # White; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0020039": 114,    # Black or African American; American Indian and Alaska Native; Asian
+    "P0020040": 115,    # Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+    "P0020041": 116,    # Black or African American; American Indian and Alaska Native; Some Other Race
+    "P0020042": 117,    # Black or African American; Asian; Native Hawaiian and Other Pacific Islander
+    "P0020043": 118,    # Black or African American; Asian; Some Other Race
+    "P0020044": 119,    # Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0020045": 120,    # American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+    "P0020046": 121,    # American Indian and Alaska Native; Asian; Some Other Race
+    "P0020047": 122,    # American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0020048": 123,    # Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0020049": 124,    # Population of four races:
+    "P0020050": 125,    # White; Black or African American; American Indian and Alaska Native; Asian
+    "P0020051": 126,    # White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+    "P0020052": 127,    # White; Black or African American; American Indian and Alaska Native; Some Other Race
+    "P0020053": 128,    # White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander
+    "P0020054": 129,    # White; Black or African American; Asian; Some Other Race
+    "P0020055": 130,    # White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0020056": 131,    # White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+    "P0020057": 132,    # White; American Indian and Alaska Native; Asian; Some Other Race
+    "P0020058": 133,    # White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0020059": 134,    # White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0020060": 135,    # Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+    "P0020061": 136,    # Black or African American; American Indian and Alaska Native; Asian; Some Other Race
+    "P0020062": 137,    # Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0020063": 138,    # Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0020064": 139,    # American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0020065": 140,    # Population of five races:
+    "P0020066": 141,    # White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+    "P0020067": 142,    # White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race
+    "P0020068": 143,    # White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0020069": 144,    # White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0020070": 145,    # White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0020071": 146,    # Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+    "P0020072": 147,    # Population of six races:
+    "P0020073": 148,    # White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race

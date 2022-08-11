@@ -1,0 +1,6 @@
+dbfread
+# kmlplus - superseded by a local version that has definite function and method signatures. the original parameter handling of kmlplus was either difficult to understand, or difficult to comply with, or both.
+pyproj
+pyshp
+shapely
+simplekml
