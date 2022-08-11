@@ -1,0 +1,97 @@
+    "FILEID": 0,        # File Identification 
+    "STUSAB": 1,        # State/US-Abbreviation (USPS) 
+    "SUMLEV": 2,        # Summary Level 
+    "GEOVAR": 3,        # Geographic Variant 
+    "GEOCOMP": 4,       # Geographic Component 
+    "CHARITER": 5,      # Characteristic Iteration 
+    "CIFSN": 6,         # Characteristic Iteration File Sequence Number 
+    "LOGRECNO": 7,      # Logical Record Number 
+    "GEOID": 8,         # Geographic Record Identifier 
+    "GEOCODE": 9,       # Geographic Code Identifier 
+    "REGION": 10,       # Region 
+    "DIVISION": 11,     # Division 
+    "STATE": 12,        # State (FIPS) 
+    "STATENS": 13,      # State (NS) 
+    "COUNTY": 14,       # County (FIPS) 
+    "COUNTYCC": 15,     # FIPS County Class Code 
+    "COUNTYNS": 16,     # County (NS) 
+    "COUSUB": 17,       # County Subdivision (FIPS) 
+    "COUSUBCC": 18,     # FIPS County Subdivision Class Code 
+    "COUSUBNS": 19,     # County Subdivision (NS) 
+    "SUBMCD": 20,       # Subminor Civil Division (FIPS) 
+    "SUBMCDCC": 21,     # FIPS Subminor Civil Division Class Code 
+    "SUBMCDNS": 22,     # Subminor Civil Division (NS) 
+    "ESTATE": 23,       # Estate (FIPS) 
+    "ESTATECC": 24,     # FIPS Estate Class Code 
+    "ESTATENS": 25,     # Estate (NS) 
+    "CONCIT": 26,       # Consolidated City (FIPS) 
+    "CONCITCC": 27,     # FIPS Consolidated City Class Code 
+    "CONCITNS": 28,     # Consolidated City (NS) 
+    "PLACE": 29,        # Place (FIPS) 
+    "PLACECC": 30,      # FIPS Place Class Code 
+    "PLACENS": 31,      # Place (NS) 
+    "TRACT": 32,        # Census Tract 
+    "BLKGRP": 33,       # Block Group 
+    "BLOCK": 34,        # Block 
+    "AIANHH": 35,       # American Indian Area/Alaska Native Area/Hawaiian Home Land (Census) 
+    "AIHHTLI": 36,      # American Indian Trust Land/Hawaiian Home Land Indicator 
+    "AIANHHFP": 37,     # American Indian Area/Alaska Native Area/Hawaiian Home Land (FIPS) 
+    "AIANHHCC": 38,     # FIPS American Indian Area/Alaska Native Area/Hawaiian Home Land Class Code 
+    "AIANHHNS": 39,     # American Indian Area/Alaska Native Area/Hawaiian Home Land (NS) 
+    "AITS": 40,         # American Indian Tribal Subdivision (Census) 
+    "AITSFP": 41,       # American Indian Tribal Subdivision (FIPS) 
+    "AITSCC": 42,       # FIPS American Indian Tribal Subdivision Class Code 
+    "AITSNS": 43,       # American Indian Tribal Subdivision (NS) 
+    "TTRACT": 44,       # Tribal Census Tract 
+    "TBLKGRP": 45,      # Tribal Block Group 
+    "ANRC": 46,         # Alaska Native Regional Corporation (FIPS) 
+    "ANRCCC": 47,       # FIPS Alaska Native Regional Corporation Class Code 
+    "ANRCNS": 48,       # Alaska Native Regional Corporation (NS) 
+    "CBSA": 49,         # Metropolitan Statistical Area/Micropolitan Statistical Area 
+    "MEMI": 50,         # Metropolitan/Micropolitan Indicator 
+    "CSA": 51,          # Combined Statistical Area 
+    "METDIV": 52,       # Metropolitan Division 
+    "NECTA": 53,        # New England City and Town Area 
+    "NMEMI": 54,        # NECTA Metropolitan/Micropolitan Indicator 
+    "CNECTA": 55,       # Combined New England City and Town Area 
+    "NECTADIV": 56,     # New England City and Town Area Division 
+    "CBSAPCI": 57,      # Metropolitan Statistical Area/Micropolitan Statistical Area Principal City Indicator 
+    "NECTAPCI": 58,     # New England City and Town Area Principal City Indicator 
+    "UA": 59,           # Urban Area 
+    "UATYPE": 60,       # Urban Area Type 
+    "UR": 61,           # Urban/Rural 
+    "CD116": 62,        # Congressional District (116th) 
+    "CD118": 63,        # Congressional District (118th) 
+    "CD119": 64,        # Congressional District (119th) 
+    "CD120": 65,        # Congressional District (120th) 
+    "CD121": 66,        # Congressional District (121st) 
+    "SLDU18": 67,       # State Legislative District (Upper Chamber) (2018) 
+    "SLDU22": 68,       # State Legislative District (Upper Chamber) (2022) 
+    "SLDU24": 69,       # State Legislative District (Upper Chamber) (2024) 
+    "SLDU26": 70,       # State Legislative District (Upper Chamber) (2026) 
+    "SLDU28": 71,       # State Legislative District (Upper Chamber) (2028) 
+    "SLDL18": 72,       # State Legislative District (Lower Chamber) (2018) 
+    "SLDL22": 73,       # State Legislative District (Lower Chamber) (2022) 
+    "SLDL24": 74,       # State Legislative District (Lower Chamber) (2024) 
+    "SLDL26": 75,       # State Legislative District (Lower Chamber) (2026) 
+    "SLDL28": 76,       # State Legislative District (Lower Chamber) (2028) 
+    "VTD": 77,          # Voting District 
+    "VTDI": 78,         # Voting District Indicator 
+    "ZCTA": 79,         # ZIP Code Tabulation Area (5-Digit) 
+    "SDELM": 80,        # School District (Elementary) 
+    "SDSEC": 81,        # School District (Secondary) 
+    "SDUNI": 82,        # School District (Unified) 
+    "PUMA": 83,         # Public Use Microdata Area 
+    "AREALAND": 84,     # Area (Land) 
+    "AREAWATR": 85,     # Area (Water) 
+    "BASENAME": 86,     # Area Base Name 
+    "NAME": 87,         # Area Name-Legal/Statistical Area Description (LSAD) Term-Part Indicator 
+    "FUNCSTAT": 88,     # Functional Status Code 
+    "GCUNI": 89,        # Geographic Change User Note Indicator 
+    "POP100": 90,       # Population Count (100%) 
+    "HU100": 91,        # Housing Unit Count (100%) 
+    "INTPTLAT": 92,     # Internal Point (Latitude) 
+    "INTPTLON": 93,     # Internal Point (Longitude) 
+    "LSADC": 94,        # Legal/Statistical Area Description Code 
+    "PARTFLAG": 95,     # Part Flag 
+    "UGA": 96,          # Urban Growth Area 

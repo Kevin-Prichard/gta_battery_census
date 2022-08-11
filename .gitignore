@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project-specific patterns
+.idea
+data/ca2020
+data/tl_2020_06_tabblock
+data/*.zip
+_kmlplus
+*.pyc
+projects
+*.pkl
+**/*.DS_Store
